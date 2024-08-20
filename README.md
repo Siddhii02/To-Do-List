@@ -110,7 +110,4 @@ Here is working:
    - If a user attempts to add a task that already exists in the list, a warning notification is displayed using the `NotificationManager.warning` function. This prevents duplicate tasks from being added to the list.
 
 This project leverages React's state management and dynamic rendering to create an interactive to-do list where tasks can be added, marked as complete (with a strikethrough line), or deleted, all while providing real-time feedback to the user through notifications.
-=======
-# To-Do-List
-To-Do List Application: A simple React-based app that allows users to manage their tasks. Users can add new tasks, mark them as complete, and delete them from their to-do list. The app includes notifications to alert users of duplicate tasks or other relevant actions.
->>>>>>> ed4ccb33efaff4876820b1b0bb9c385a38e46c60
+
